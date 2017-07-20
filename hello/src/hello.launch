@@ -1,7 +1,7 @@
 <launch>
     <node
         pkg="hello"
-        name="hello"
+        name="node_hello"
         type="hello"
         output="screen"
     />
